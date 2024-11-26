@@ -1,0 +1,37 @@
+.navbar ul{
+	list-style-type: none;
+	background-color: #FFB38E;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+}
+.navbar a{
+	color: #181823;
+	text-decoration: none;
+	padding: 15px;
+	display: block;
+	text-align: center;
+}
+.navbar a:hover{
+	background-color: #F6D6D6;
+
+}
+.navbar li{
+	float: left;
+}
+body {
+   background: #f9f7f3;
+   text-align: center;
+}
+h2, h3{
+	font-family: Trebuchet, Trebuchet MS, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	word-wrap: break-word;
+}
+
+h1 {
+	font-family: Trebuchet, Trebuchet MS, sans-serif;
+	font-weight: normal;
+	word-wrap: break-word;
+}
